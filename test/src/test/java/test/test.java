@@ -21,12 +21,12 @@ public class test {
         chromedriver.get("http://www.baidu.com");
         
     }
-
     @Test
     public void TestNgLearn() {
     	WebElement element = chromedriver.findElement(By.id("kw"));
         element.clear();
         element.sendKeys("java");
+        System.out.println("输入java");
         element.submit();
     }
 

@@ -2,34 +2,34 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="16318" started-at="2018-05-31T04:40:10Z" finished-at="2018-05-31T04:40:27Z">
+  <suite name="Default suite" duration-ms="15073" started-at="2018-05-31T05:23:36Z" finished-at="2018-05-31T05:23:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="16318" started-at="2018-05-31T04:40:10Z" finished-at="2018-05-31T04:40:27Z">
+    <test name="Default test" duration-ms="15073" started-at="2018-05-31T05:23:36Z" finished-at="2018-05-31T05:23:52Z">
       <class name="test.test02">
-        <test-method status="PASS" signature="TestNgLearn()[pri:0, instance:test.test02@66a3ffec]" name="TestNgLearn" duration-ms="686" started-at="2018-05-31T12:40:23Z" finished-at="2018-05-31T12:40:24Z">
+        <test-method status="PASS" signature="TestNgLearn()[pri:0, instance:test.test02@66a3ffec]" name="TestNgLearn" duration-ms="530" started-at="2018-05-31T13:23:47Z" finished-at="2018-05-31T13:23:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestNgLearn -->
       </class> <!-- test.test02 -->
       <class name="test.test">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.test@77caeb3e]" name="beforeClass" is-config="true" duration-ms="7472" started-at="2018-05-31T12:40:10Z" finished-at="2018-05-31T12:40:18Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.test@77caeb3e]" name="beforeClass" is-config="true" duration-ms="6164" started-at="2018-05-31T13:23:36Z" finished-at="2018-05-31T13:23:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.test02@66a3ffec]" name="beforeClass" is-config="true" duration-ms="5135" started-at="2018-05-31T12:40:18Z" finished-at="2018-05-31T12:40:23Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.test02@66a3ffec]" name="beforeClass" is-config="true" duration-ms="4577" started-at="2018-05-31T13:23:43Z" finished-at="2018-05-31T13:23:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="TestNgLearn()[pri:0, instance:test.test@77caeb3e]" name="TestNgLearn" duration-ms="436" started-at="2018-05-31T12:40:24Z" finished-at="2018-05-31T12:40:24Z">
+        <test-method status="PASS" signature="TestNgLearn()[pri:0, instance:test.test@77caeb3e]" name="TestNgLearn" duration-ms="435" started-at="2018-05-31T13:23:48Z" finished-at="2018-05-31T13:23:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestNgLearn -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.test@77caeb3e]" name="afterClass" is-config="true" duration-ms="1625" started-at="2018-05-31T12:40:24Z" finished-at="2018-05-31T12:40:26Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.test@77caeb3e]" name="afterClass" is-config="true" duration-ms="1714" started-at="2018-05-31T13:23:48Z" finished-at="2018-05-31T13:23:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.test02@66a3ffec]" name="afterClass" is-config="true" duration-ms="932" started-at="2018-05-31T12:40:26Z" finished-at="2018-05-31T12:40:27Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.test02@66a3ffec]" name="afterClass" is-config="true" duration-ms="1630" started-at="2018-05-31T13:23:50Z" finished-at="2018-05-31T13:23:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

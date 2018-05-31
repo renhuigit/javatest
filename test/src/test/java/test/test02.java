@@ -26,7 +26,8 @@ public class test02 {
     public void TestNgLearn() {
     	WebElement element = chromedriver.findElement(By.id("kw"));
         element.clear();
-        element.sendKeys("java");
+        element.sendKeys("selenium");
+        System.out.println("输入selenium");
         element.submit();
     }
 
