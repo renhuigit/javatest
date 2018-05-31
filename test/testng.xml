@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <suite name ="DiscuzWhiteTest">
+        <parameter name="Browser" value="chrome"/>
+
+        <test name="product">
+        <classes>
+            <class name="test.test.java"/>
+            <class name="test.test02.java"/>
+        </classes>
+    </test>
+    </suite>
